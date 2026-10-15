@@ -2,6 +2,8 @@
 
 使用 HTML、CSS 和少量 JavaScript 制作的响应式个人主页，适合直接部署至 GitHub Pages。
 
+在线访问：<https://interesting-sudo.github.io/ding-resume/>
+
 ## 发布前替换
 
 在 `index.html` 中搜索并替换：
